@@ -1,4 +1,5 @@
-##Screenshots
+## Bug Report Screenshots
+
 
 - [Bug #1: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2358-2025-04-30-18_46_06.png)
 - [Bug #2: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2379-2025-04-30-18_41_56.png)
@@ -6,7 +7,11 @@
 - [Bug #4: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2632-2025-04-30-18_51_20.png)
 
 
+## API Testing Screenshots
 
+- [API Testing #1: The screenshot of the API testing in Jira](images/screencapture-mtechqa-atlassian-net-jira-core-projects-MTQA-board-2025-04-30-19_01_54.png)
+- [API Testing #1: The screenshot of the API testing in Jira](images/screencapture-mtechqa-atlassian-net-jira-core-projects-MTQA-board-2025-04-30-19_04_34.png)
+- [API Testing #1: The screenshot of the API testing in Jira](images/screencapture-mtechqa-atlassian-net-jira-core-projects-MTQA-board-2025-04-30-19_09_57.png)
 
 <!--
 **Deepikavns/Deepikavns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
