@@ -1,9 +1,9 @@
 ##Screenshots
 
--[Bug #1: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2358-2025-04-30-18_46_06.png)
--[Bug #2: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2379-2025-04-30-18_41_56.png)
--[Bug #3: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2417-2025-04-30-18_44_34.png)
--[Bug #4: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2632-2025-04-30-18_51_20.png)
+- [Bug #1: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2358-2025-04-30-18_46_06.png)
+- [Bug #2: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2379-2025-04-30-18_41_56.png)
+- [Bug #3: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2417-2025-04-30-18_44_34.png)
+- [Bug #4: the screenshot of the bug report in Jira](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2632-2025-04-30-18_51_20.png)
 
 
 
