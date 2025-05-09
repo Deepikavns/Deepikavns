@@ -1,8 +1,9 @@
-## Hi there 👋
-![Bug1](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2358-2025-04-30-18_46_06.png)
-![Bug2](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2379-2025-04-30-18_41_56.png)
-![Bug3](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2417-2025-04-30-18_44_34.png)
-![Bug4](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2632-2025-04-30-18_51_20.png)
+##Screenshots
+
+[Bug#1](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2358-2025-04-30-18_46_06.png)
+[Bug#2](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2379-2025-04-30-18_41_56.png)
+[Bug#3](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2417-2025-04-30-18_44_34.png)
+[Bug#4](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2632-2025-04-30-18_51_20.png)
 
 
 
