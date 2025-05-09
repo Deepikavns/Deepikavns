@@ -1,9 +1,7 @@
 ## Hi there 👋
-![Screenshot](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2358-2025-04-30-18_46_06.png);
-
+![Screenshot](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2358-2025-04-30-18_46_06.png)
 ![Screenshot](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2379-2025-04-30-18_41_56.png)
 ![Screenshot](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2417-2025-04-30-18_44_34.png)
-
 ![Screenshot](images/screencapture-mtechqa-atlassian-net-browse-MTQA-2632-2025-04-30-18_51_20.png)
 
 
