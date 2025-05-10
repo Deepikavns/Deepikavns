@@ -23,7 +23,7 @@ My goal is to apply this knowledge in real-world testing environments, gain prac
 
 [Credly Badge](https://www.credly.com/badges/80e69b37-75da-4a09-a23b-2b7efdf6b1ed/linked_in_profile)
 
-![Coding Basics](images/Coding-basics.png)
+![Coding Basics](images/Coding-Basics.png)
 
 
 
