@@ -7,8 +7,8 @@ I hold a Master’s degree from Purvanchal University, India, and I’m currentl
 My goal is to apply this knowledge in real-world testing environments, gain practical experience, and grow into a mid-level software tester within the next two years.
 
 ## 📄 Download My Resume
-
 [📄 Download My Resume](./Resume-qa.pdf)
+
 ## 🧠 Skills
 
 ### 🔍 Manual Testing
