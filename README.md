@@ -6,6 +6,9 @@ I’m a positive and motivated individual with a strong foundation in analytical
 I hold a Master’s degree from Purvanchal University, India, and I’m currently transitioning into a career as a Software Automation Engineer. I’m actively building my skills through a combination of online and in-person courses, focusing on software testing tools, techniques, and hands-on practice with web applications designed for learning.
 My goal is to apply this knowledge in real-world testing environments, gain practical experience, and grow into a mid-level software tester within the next two years.
 
+## 📄 Download My Resume
+
+[Download Resume (PDF)](./Resume For QA Job (3).pdf)
 
 ## 🧠 Skills
 
