@@ -8,8 +8,7 @@ My goal is to apply this knowledge in real-world testing environments, gain prac
 
 ## 📄 Download My Resume
 
-- [Resume](./Resume For QA Job (3).pdf)
-
+[📄 Download My Resume](./Resume-qa.pdf)
 ## 🧠 Skills
 
 ### 🔍 Manual Testing
