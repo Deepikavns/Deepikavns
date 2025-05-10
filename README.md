@@ -6,17 +6,31 @@ I’m a positive and motivated individual with a strong foundation in analytical
 I hold a Master’s degree from Purvanchal University, India, and I’m currently transitioning into a career as a Software Automation Engineer. I’m actively building my skills through a combination of online and in-person courses, focusing on software testing tools, techniques, and hands-on practice with web applications designed for learning.
 My goal is to apply this knowledge in real-world testing environments, gain practical experience, and grow into a mid-level software tester within the next two years.
 
-<<<<<<< HEAD
-## 📄My Resume
-
-[Download My Resume](./Resume-qa.pdf)
-=======
-## My Resume
+## 📄 My Resume
 
 [📄 Download My Resume](./Resume-qa.pdf)
 
 
->>>>>>> a9fc8b1 (my Resume)
+## Certifications
+
+### Software Quality Assurance Certification
+
+##### Mountainland Technical College • Lehi, UT • January 2025 – May 2025
+
+### Coding Basics Certification
+
+#### DevMountain College • Lehi, UT• October 2023
+
+[Credly Badge](https://www.credly.com/badges/80e69b37-75da-4a09-a23b-2b7efdf6b1ed/linked_in_profile)
+
+![Coding Basics](images/Coding-basics.png)
+
+
+
+### Software Quality Assurance Certification
+
+#### Mountainland Technical College • Lehi, UT • January 2025 – May 2025
+
 
 ## 🧠 Skills
 
