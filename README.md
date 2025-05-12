@@ -26,11 +26,6 @@ My goal is to apply this knowledge in real-world testing environments, gain prac
 
 
 
-### Software Quality Assurance Certification
-
-#### Mountainland Technical College • Lehi, UT • January 2025 – May 2025
-
-
 ## 🧠 Skills
 
 ### 🔍 Manual Testing
