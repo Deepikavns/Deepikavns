@@ -7,7 +7,7 @@ My goal is to apply this knowledge in real-world testing environments, gain prac
 
 ## 📄 My Resume
 
-[📄 Download My Resume](./Resume-qa.pdf)
+[📄 Download My Resume](./Resume-qa.pdf.pdf)
 
 
 ## Certifications
